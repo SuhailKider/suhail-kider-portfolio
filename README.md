@@ -8,12 +8,6 @@ Hello! I am Suhail Kider, a passionate and dedicated Cybersecurity Professional.
 
 I am a dynamic individual with a strong foundation in cybersecurity. Currently pursuing an HND in Cybersecurity, I thrive in environments that foster continuous innovation and practical learning. My self-learned skills in filmmaking, video editing, and graphic design add a creative dimension to my technical expertise. I am eager to gain hands-on experience and make a meaningful impact in the cybersecurity profession.
 
-## Skills
-
-- **Cybersecurity:** Ethical Hacking, Bug Bounty Hunting, SQL Injection Attacks
-- **Operating Systems:** Unix/Linux
-- **Creative Skills:** Filmmaking, Video Editing, Graphic Design
-
 ## Certifications
 
 - **Google Cybersecurity Professional Certificate**
@@ -40,6 +34,36 @@ I am a dynamic individual with a strong foundation in cybersecurity. Currently p
 
 ### Unix/Linux Lab: Shell Scripting
 **Description:** Developed and executed shell scripts to automate administrative tasks and enhance system functionality.
+
+## Skills
+
+### Network Security
+- **Firewall Configuration:** Configured and managed firewalls to secure network perimeters.
+- **IDS/IPS:** Implemented and monitored Intrusion Detection and Prevention Systems.
+
+### Operating Systems Security
+- **Windows Security:** Secured Windows environments, managed patches and user permissions.
+- **Linux/Unix Security:** Hardened Linux/Unix systems and managed secure configurations.
+
+### Vulnerability Assessment and Management
+- **Vulnerability Scanning:** Used tools like Nessus for identifying and managing vulnerabilities.
+- **Patch Management:** Applied and managed security patches to maintain system integrity.
+
+### Incident Response and Forensics
+- **Incident Handling:** Managed security incidents, including response and remediation.
+- **Digital Forensics:** Collected and analyzed forensic evidence for investigations.
+
+### Threat Intelligence and Analysis
+- **Threat Analysis:** Analyzed threat data and identified potential security risks.
+- **Threat Hunting:** Proactively searched for threats within the network.
+
+### Security Tools and Technologies
+- **SIEM Tools:** Experienced with SIEM platforms like Splunk for security monitoring.
+- **Endpoint Protection:** Managed endpoint protection solutions to secure devices.
+
+### Programming and Scripting
+- **Python:** Used Python for security scripting and automation.
+- **PowerShell/Bash:** Scripting experience with PowerShell and Bash.
 
 ## Contact
 
