@@ -6,7 +6,7 @@ Hello! I am Suhail Kider, a passionate and dedicated Cybersecurity Professional.
 
 ## About Me
 
-I am a dynamic individual with a strong foundation in cybersecurity. Currently pursuing an HND in Cybersecurity, I thrive in environments that foster continuous innovation and practical learning. My self-learned skills in filmmaking, video editing, and graphic design add a creative dimension to my technical expertise. I am eager to gain hands-on experience and make a meaningful impact in the cybersecurity profession.
+I am an aspiring cybersecurity professional with an HND in Cybersecurity. I focus on identifying and analyzing security risks and vulnerabilities to protect organizations and individuals. With a strong background in cybersecurity and practical experience, I work to keep information systems secure and reliable.
 
 ## Certifications
 
